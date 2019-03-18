@@ -26,3 +26,8 @@ Following the "Welcome to Machine Learning" course from Coursera teached by Andr
         4.1. Compute the gradient of the sigmoid function
         4.2. Randomly initialize weights
         4.3. Neural network cost function
+5. Regularized Linear Regression and Bias v.s. Variance
+
+        5.1. Regularized linear regression cost function
+        5.2. Maps data into polynomial feature space
+        5.3. Generates a cross validation curve
