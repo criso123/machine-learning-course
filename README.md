@@ -21,3 +21,8 @@ Following the "Welcome to Machine Learning" course from Coursera teached by Andr
         3.2. Train a one-vs-all multi-class classifier
         3.3. Predict using a one-vs-all multi-class classifier
         3.4. Neural network prediction function
+4. Neural networks Learning
+
+        4.1. Compute the gradient of the sigmoid function
+        4.2. Randomly initialize weights
+        4.3. Neural network cost function
