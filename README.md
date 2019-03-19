@@ -31,3 +31,8 @@ Following the "Welcome to Machine Learning" course from Coursera teached by Andr
         5.1. Regularized linear regression cost function
         5.2. Maps data into polynomial feature space
         5.3. Generates a cross validation curve
+6. Support Vector Machine
+
+        6.1. Gaussian Kernel for SVM
+        6.2. Email preprocessing
+        6.3. Feature extraction from emails
