@@ -43,3 +43,8 @@ Following the "Welcome to Machine Learning" course from Coursera teached by Andr
         7.3. Recovers the original data from the projection
         7.4. Find and compute closest centroids
         7.5. Initialization for K-means centroids
+8. Anomaly Detection and Recommender Systems
+
+        8.1. Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix
+        8.2. Find a threshold for anomaly detection
+        8.3. Implement the cost function for collaborative filtering
