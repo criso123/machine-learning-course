@@ -36,3 +36,10 @@ Following the "Welcome to Machine Learning" course from Coursera teached by Andr
         6.1. Gaussian Kernel for SVM
         6.2. Email preprocessing
         6.3. Feature extraction from emails
+7. K-means Clustering and Principal Component Analysis
+
+        7.1. Perform principal component analysis
+        7.2. Projects a data set into a lower dimensional space
+        7.3. Recovers the original data from the projection
+        7.4. Find and compute closest centroids
+        7.5. Initialization for K-means centroids
